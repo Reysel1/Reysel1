@@ -1,10 +1,17 @@
 
 
 
+<div style="display: inline_block; margin-left: 20vw;"><br>
+  <img align="center" alt="Rafa-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
 
-  <img align="right" alt="Rafa-pic" height="150"  style="border-radius:50px; top: 50vw;" src="https://cdn.discordapp.com/attachments/980137081038843974/1026719780457168957/Captura_de_pantalla_2022-09-24_010644.png">
-
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reysel1&show_icons=true&theme=radical)
 
 <div> 
 
