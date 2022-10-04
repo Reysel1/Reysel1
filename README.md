@@ -7,19 +7,14 @@
 </h1>
 
 <h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/lautaro-rodrigues-cova-9349941b4/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/lauticova/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/reysel_x/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, my name is Lautaro.
+  Hi, my name is Reysel
   <br>
   <br>
-  🔬 I am currently studying Computer Engineering at the University of Buenos Aires.
-  <br>
-  📚 I’m currently working @ <a href="https://bairesrp.net/" title="bairesroleplay">bairesroleplay</a>
-  <br>
+  🔬I am currently studying a cycle of computer science in Spain.
 </p>
 
 <br>
