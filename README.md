@@ -1,8 +1,11 @@
+
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+reysel....;&center=true&size=30">
   </a>
 </h1>
+
 
 <h5 align="center">
   <code><a href="https://www.instagram.com/reysel_x/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
@@ -30,4 +33,5 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=Reysel1&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-[![Discord](https://lanyard.cnrad.dev/api/969183309471055922)](https://discord.gg/dB7aTvKfpf)
+[![Discord Presence](https://lanyard.cnrad.dev/api/969183309471055922)](https://discord.com/users/969183309471055922)
+
